@@ -7,7 +7,7 @@ import requests
 # download openai module
 
 api_key = "59d2d299834a40d0910c33d612b899b5"
-
+# begin
 
 sr.AudioFile.FLAC_CONVERTER = "/opt/homebrew/bin/flac"
 
