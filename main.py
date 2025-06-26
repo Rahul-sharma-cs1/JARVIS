@@ -5,7 +5,7 @@ import musiclibrary
 import requests
 
 
-api_key = "59d2d299834a40d0910c33d612b899b5"
+api_key = "59d2d299834a40d0910c33d612b899b"
 
 
 sr.AudioFile.FLAC_CONVERTER = "/opt/homebrew/bin/flac"
