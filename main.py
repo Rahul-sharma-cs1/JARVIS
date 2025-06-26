@@ -3,7 +3,8 @@ import webbrowser
 import pyttsx3
 import musiclibrary
 import requests
-
+# download pyaudio module
+# download openai module
 
 api_key = "59d2d299834a40d0910c33d612b899b5"
 
